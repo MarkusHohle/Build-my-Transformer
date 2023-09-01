@@ -31,3 +31,21 @@ Examples how to construct encoder and decoder from "AllModules.py" including bac
 Note: just an example, not ready to be trained
   - Transformer6E6D8H_TrainingWalkThrough.py
  
+
+# Word2Vec
+learns word embedding using Cbow algorithm (see also the great videos from Andrej Karpathy)
+
+- Word2Vec.py (main, saves weights every 500 iterations, calls MyANN.py for dense layer, optimization etc, OneHot.py for preliminary encoding and plotMyEmbedding.py for       creating an UMAP plot every 500 iterations)
+
+
+
+
+
+
+
+
+
+
+
+
+
