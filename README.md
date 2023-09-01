@@ -7,7 +7,7 @@ Note 2: Since the idea is to teach how the very core of a transformer works, ten
 Repository contains the following libraries:
 
 # AllModules.py    
-contains all standar classes incl backprob for building a transformer:
+contains all standard classes incl backprob for building a transformer:
   -  dense layer
   -  self attention and cross attention (default is eight heads, N = 64 dimension for key, value and query matrices is hardcoded)
   -  optimizers (L2, momentum etc)
